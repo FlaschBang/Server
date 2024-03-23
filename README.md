@@ -1,14 +1,13 @@
 server
 =====
 
-An escript
 
 Build
 -----
 
-    $ rebar3 escriptize
+    $ bash ./build.bash
 
 Run
 ---
 
-    $ _build/default/bin/server
+    $ sudo _build/default/bin/server
